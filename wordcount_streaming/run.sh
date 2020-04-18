@@ -1,4 +1,5 @@
-SOURCE_BASE_PATH="/home/nakhodnov17/wordcount_streaming"
+SOURCE_BASE_PATH="$HOME/wordcount_streaming"
+echo $SOURCE_BASE_PATH
 
 INPUT_DIR="/wordcount_streaming/input"
 OUTPUT_DIR="/wordcount_streaming/output"
